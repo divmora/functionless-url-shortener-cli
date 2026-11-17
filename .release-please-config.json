@@ -1,0 +1,9 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "go",
+      "package-name": "functionless-url-shortener-cli",
+      "include-component-in-tag": false
+    }
+  }
+}

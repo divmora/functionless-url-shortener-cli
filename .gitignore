@@ -1,0 +1,15 @@
+# Build output
+bin/
+dist/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local environment files
+.env
+.env.*
